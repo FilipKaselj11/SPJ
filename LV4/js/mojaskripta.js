@@ -1,8 +1,8 @@
 var obj= new _lib("title");
-//console.log(obj.el[0].innerHTML);
+console.log(obj.el.innerHTML);
 
 var lista=new _lib("#nav");
-//console.log(lista.el[0].innerHTML);
+console.log(lista.el.innerHTML);
 
 lista.ubaciELEMENT("li","","","<a href='#'>MAIL</a>");
 

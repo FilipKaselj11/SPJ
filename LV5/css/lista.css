@@ -1,0 +1,14 @@
+body {
+    display: inline-flex;
+    
+}
+
+img {
+    width: 600px;
+}
+
+ul{
+    
+    list-style-type: none;
+    margin: 10px 100px 10px auto;
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "type": "text",
+        "input": "Hi"
+    },
+    {
+        "type": "text",
+        "input": "Hello"
+    },
+    {
+        "type": "number",
+        "input": "122"
+    },
+    {
+        "type": "text",
+        "input": "sdfsdf"
+    },
+    {
+        "type": "text",
+        "input": "jajajajaj"
+    },
+    {
+        "type": "date",
+        "input": "2022-05-04"
+    },
+    {
+        "type": "password",
+        "input": "asdsad"
+    },
+    {
+        "type": "text",
+        "input": "adsasd"
+    }
+]

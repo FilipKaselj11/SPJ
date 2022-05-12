@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Naziv": "RTX3070",
+        "Proizvođač": "NVIDIA",
+        "Model":"RTX3070",
+        "Cijena":7000,
+        "Količina": 10
+    },
+    {
+        "Id": 2,
+        "Naziv": "RYZEN RT6650xt",
+        "Proizvođač": "AMD",
+        "Model": "RT6650xt",
+        "Cijena": 4000,
+        "Količina":0
+    },
+    {
+        "Id": 3,
+        "Naziv": "Slusalice",
+        "Proizvođač":"RAZER",
+        "Model":"KRAKEN TE V2",
+        "Cijena":550,
+        "Količina": 78
+    },
+    {
+        "Id":4,
+        "Naziv": "mobitel",
+        "Proizvođač": "SAMSUNG",
+        "Model": "A32",
+        "Cijena": 2499,
+        "Količina": 56
+    },
+    {
+        "Id": 5,
+        "Naziv": "monitor",
+        "Proizvođač":"SAMSUNG",
+        "Model": "ODYSSEY 6",
+        "Cijena":3999,
+        "Količina": 34
+    }
+]

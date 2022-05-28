@@ -6,6 +6,7 @@ import App from './App';
 import Pocetna from "./components/Pocetna";
 import Dodaj from "./components/Dodaj";
 import Navigacija from "./components/Navigacija";
+import Edit from "./components/Edit";
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -16,6 +17,7 @@ root.render(
     <Routes>
       <Route path="/" element={<Pocetna/>}/>
       <Route path="/dodaj" element={<Dodaj/>}/>
+      <Route path="/edit/:EditID" element={<Edit/>}/>
     </Routes>
   </BrowserRouter>
 );
